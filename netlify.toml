@@ -1,6 +1,6 @@
-[build]
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-base = "cryptocurrency app"
- CI = "npm run build"
+# [build]
+# [[redirects]]
+#   from = "/*"
+#   to = "/index.html"
+# base = "cryptocurrency app"
+#  CI = "npm run build"
